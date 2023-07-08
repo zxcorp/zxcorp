@@ -12,7 +12,7 @@ Languages  :  Python, Java, Js, Batch, C, HTML/CSS, SQL, PHP, Lua
 ```
 
 ```json
-1.000.000 on my wallet.
+1.000000 on my wallet.
 ```
 
 <a href="https://discord.gg/Pse9P23rWY" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
